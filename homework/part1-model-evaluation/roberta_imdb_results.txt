@@ -1,0 +1,13 @@
+Model: textattack/roberta-base-imdb
+Accuracy on first 50: 100.00% (50/50)
+Accuracy on all 500: 98.40% (492/500)
+Wrong predictions: 8/500
+
+Review #159: True=0, Pred=1, Score=0.9440
+Review #175: True=1, Pred=0, Score=0.8905
+Review #210: True=0, Pred=1, Score=0.5531
+Review #291: True=0, Pred=1, Score=0.8481
+Review #355: True=0, Pred=1, Score=0.7161
+Review #357: True=1, Pred=0, Score=0.9824
+Review #378: True=1, Pred=0, Score=0.9944
+Review #486: True=1, Pred=0, Score=0.9638
